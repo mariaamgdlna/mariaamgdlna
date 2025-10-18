@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome, I'm Maria! 👋
+Thank you for visiting my projects. Have a great day!
 
 <!--
 **mariaamgdlna/mariaamgdlna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
